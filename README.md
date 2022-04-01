@@ -15,4 +15,6 @@ This is an example of a GitHub repository.
 |    |    |
 |----|    |
 |    |    |
-|    |   _|__    andrew and jacob
+|    |   _|__    
+
+I'm hungry- what do I want to eat?
